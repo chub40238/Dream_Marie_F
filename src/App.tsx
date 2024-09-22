@@ -1,7 +1,7 @@
 
 import './App.css'
 import Home from './pages/Home'
-import React, {useEffect, Suspense } from "react";
+import {useEffect} from "react";
 
 function App() {
   const sendMessageToMe = async () => {
