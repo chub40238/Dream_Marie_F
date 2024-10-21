@@ -8,7 +8,7 @@ import Reviews from "../components/reviews/Reviews";
 import Contents from "../content/contents";
 import images from "../content/contents";
 import { Image } from "../types/type";
-
+//page import
 
 
 const Home = () => {
