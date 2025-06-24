@@ -61,7 +61,7 @@ function App() {
       console.error("Error sending message:", error);
     }
   };
-
+//cmd
   useEffect(() => {
     sendMessageToMe();
   }, []);
